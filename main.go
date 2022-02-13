@@ -8,6 +8,6 @@ import (
 
 func main() {
 
-	helloMessage := emoji.Sprint("Hello :world_map:!")
+	helloMessage := emoji.Sprint("Hello :world_map: !")
 	fmt.Println(helloMessage)
 }
